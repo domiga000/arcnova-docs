@@ -1,5 +1,7 @@
 # Mobile Experience
 
+<figure><img src="../../.gitbook/assets/p4.png" alt=""><figcaption></figcaption></figure>
+
 ArcNova is designed for mobile-first entertainment behavior.
 
 Many users discover, watch, and share short-form content through mobile devices. ArcNova’s product experience is built around this behavior by supporting short-form storytelling, creator participation, and viewer engagement.
