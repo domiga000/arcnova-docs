@@ -1,3 +1,7 @@
+---
+icon: users
+---
+
 # Community Layer
 
 The community layer connects creators, viewers, and creative participants.

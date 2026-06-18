@@ -1,3 +1,7 @@
+---
+icon: door-open
+---
+
 # Welcome to ArcNova
 
 <figure><img src="../.gitbook/assets/p1.png" alt=""><figcaption></figcaption></figure>

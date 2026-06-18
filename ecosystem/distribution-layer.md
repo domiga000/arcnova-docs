@@ -1,3 +1,7 @@
+---
+icon: share-nodes
+---
+
 # Distribution Layer
 
 The distribution layer helps content reach viewers.

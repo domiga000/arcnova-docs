@@ -1,3 +1,7 @@
+---
+icon: mobile-screen
+---
+
 # Mobile Entertainment Expansion
 
 ArcNova will continue building for mobile-first entertainment.

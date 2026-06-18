@@ -1,3 +1,7 @@
+---
+icon: mobile-screen
+---
+
 # Mobile Experience
 
 <figure><img src="../.gitbook/assets/p4.png" alt=""><figcaption></figcaption></figure>

@@ -1,3 +1,7 @@
+---
+icon: eye
+---
+
 # Our Vision
 
 ArcNova’s vision is to build an AI-native cinematic infrastructure for global creators.

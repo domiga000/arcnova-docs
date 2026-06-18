@@ -1,3 +1,7 @@
+---
+icon: wand-magic-sparkles
+---
+
 # Engaging with New Entertainment Formats
 
 AI-native entertainment creates new possibilities for how audiences interact with content.

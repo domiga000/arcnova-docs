@@ -1,3 +1,7 @@
+---
+icon: house
+---
+
 # ArcNova
 
 ArcNova is an AI-native cinematic platform built for the next generation of digital storytelling.

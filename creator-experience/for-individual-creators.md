@@ -1,3 +1,7 @@
+---
+icon: user
+---
+
 # For Individual Creators
 
 ArcNova helps individual creators produce cinematic content without requiring a full production team.

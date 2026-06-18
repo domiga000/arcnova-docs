@@ -1,3 +1,7 @@
+---
+icon: coins
+---
+
 # Monetization Layer
 
 ArcNova’s monetization layer is designed to help creators and platform participants build sustainable content activity.

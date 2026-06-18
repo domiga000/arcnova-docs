@@ -1,3 +1,7 @@
+---
+icon: compass
+---
+
 # Discovering Short-Form Dramas
 
 Short-form drama is one of ArcNova’s key content formats.

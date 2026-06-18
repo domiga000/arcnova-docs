@@ -1,3 +1,7 @@
+---
+icon: users
+---
+
 # For Creative Communities
 
 Creative communities can use ArcNova to collaborate around stories, characters, formats, and content ideas.

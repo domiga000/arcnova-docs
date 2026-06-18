@@ -1,3 +1,7 @@
+---
+icon: wand-sparkles
+---
+
 # One-Prompt Drama Creation
 
 One-prompt drama creation is one of ArcNova’s core product concepts.

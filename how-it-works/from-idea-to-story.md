@@ -1,3 +1,7 @@
+---
+icon: lightbulb
+---
+
 # From Idea to Story
 
 Every piece of content begins with an idea.

@@ -1,3 +1,7 @@
+---
+icon: circle-info
+---
+
 # What is ArcNova?
 
 <figure><img src="../.gitbook/assets/p2.png" alt=""><figcaption></figcaption></figure>

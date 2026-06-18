@@ -1,3 +1,7 @@
+---
+icon: photo-film
+---
+
 # Content Layer
 
 The content layer includes the stories, characters, dramas, and videos created through ArcNova.

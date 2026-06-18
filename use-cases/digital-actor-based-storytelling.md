@@ -1,3 +1,7 @@
+---
+icon: user-astronaut
+---
+
 # Digital Actor-Based Storytelling
 
 Digital actors allow creators to build character-based stories without traditional production constraints.

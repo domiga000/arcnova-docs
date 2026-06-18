@@ -1,3 +1,7 @@
+---
+icon: wand-magic-sparkles
+---
+
 # AI Cinematic Creation Layer
 
 ArcNova’s AI cinematic creation layer is the foundation of the product.

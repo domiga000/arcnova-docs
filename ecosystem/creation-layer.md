@@ -1,3 +1,7 @@
+---
+icon: wand-magic-sparkles
+---
+
 # Creation Layer
 
 The creation layer includes the tools creators use to build content.

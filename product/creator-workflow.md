@@ -1,3 +1,7 @@
+---
+icon: diagram-project
+---
+
 # Creator Workflow
 
 ArcNova’s creator workflow is designed to support the full journey from idea to publishing.

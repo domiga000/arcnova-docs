@@ -1,3 +1,7 @@
+---
+icon: masks-theater
+---
+
 # AI Digital Actors
 
 AI digital actors are a key part of ArcNova’s product experience.

@@ -1,3 +1,7 @@
+---
+icon: tv
+---
+
 # ArcNova TV
 
 ArcNova TV is the content viewing and distribution layer of the ArcNova ecosystem.

@@ -1,3 +1,7 @@
+---
+icon: film
+---
+
 # From Story to Production
 
 Once a story direction is created, ArcNova helps move it toward production.

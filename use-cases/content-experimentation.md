@@ -1,3 +1,7 @@
+---
+icon: flask
+---
+
 # Content Experimentation
 
 ArcNova gives creators a faster way to test content ideas.

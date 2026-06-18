@@ -1,3 +1,7 @@
+---
+icon: lightbulb
+---
+
 # Why ArcNova Exists
 
 <figure><img src="../.gitbook/assets/p3.png" alt=""><figcaption></figcaption></figure>

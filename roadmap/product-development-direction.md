@@ -1,3 +1,7 @@
+---
+icon: compass
+---
+
 # Product Development Direction
 
 ArcNova’s product direction focuses on building a more complete AI-native entertainment platform.

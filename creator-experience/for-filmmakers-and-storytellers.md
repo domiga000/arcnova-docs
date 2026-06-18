@@ -1,3 +1,7 @@
+---
+icon: clapperboard
+---
+
 # For Filmmakers and Storytellers
 
 For filmmakers and storytellers, ArcNova can act as a rapid prototyping and production assistant.

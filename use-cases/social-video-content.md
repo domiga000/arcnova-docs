@@ -1,3 +1,7 @@
+---
+icon: hashtag
+---
+
 # Social Video Content
 
 ArcNova can support social-first video content creation.

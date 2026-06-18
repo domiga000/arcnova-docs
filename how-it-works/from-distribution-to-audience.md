@@ -1,3 +1,7 @@
+---
+icon: users
+---
+
 # From Distribution to Audience
 
 ArcNova’s product experience is built around the relationship between creators and audiences.

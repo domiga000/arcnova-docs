@@ -1,3 +1,7 @@
+---
+icon: play
+---
+
 # Watching AI-Generated Stories
 
 ArcNova gives viewers access to AI-generated short-form dramas and cinematic stories.

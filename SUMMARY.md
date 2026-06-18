@@ -63,17 +63,6 @@
 * [Content Distribution](roadmap/content-distribution.md)
 * [Mobile Entertainment Expansion](roadmap/mobile-entertainment-expansion.md)
 
-## FAQ
+## Resources
 
-* [What is ArcNova?](faq/what-is-arcnova.md)
-* [Who is ArcNova for?](faq/who-is-arcnova-for.md)
-* [What can creators do with ArcNova?](faq/what-can-creators-do-with-arcnova.md)
-* [What is ArcNova Studio?](faq/what-is-arcnova-studio.md)
-* [What is ArcNova TV?](faq/what-is-arcnova-tv.md)
-* [What is one-prompt drama creation?](faq/what-is-one-prompt-drama-creation.md)
-* [What are AI digital actors?](faq/what-are-ai-digital-actors.md)
-* [Does ArcNova only generate videos?](faq/does-arcnova-only-generate-videos.md)
-* [How is ArcNova different from other AI tools?](faq/how-is-arcnova-different-from-other-ai-tools.md)
-* [Can brands use ArcNova?](faq/can-brands-use-arcnova.md)
-* [Can communities use ArcNova?](faq/can-communities-use-arcnova.md)
-* [What is ArcNova’s long-term goal?](faq/what-is-arcnova-s-long-term-goal.md)
+* [FAQ](faq.md)

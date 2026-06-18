@@ -1,3 +1,7 @@
+---
+icon: share-nodes
+---
+
 # From Production to Distribution
 
 After content is generated, creators need a way to distribute it.

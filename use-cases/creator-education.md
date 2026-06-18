@@ -1,3 +1,7 @@
+---
+icon: graduation-cap
+---
+
 # Creator Education
 
 ArcNova can support creator education around AI filmmaking and AI content production.

@@ -1,3 +1,7 @@
+---
+icon: masks-theater
+---
+
 # AI Short Drama Creation
 
 Creators can use ArcNova to produce short-form drama content more efficiently.

@@ -1,3 +1,7 @@
+---
+icon: clapperboard
+---
+
 # ArcNova Studio
 
 ArcNova Studio is the creation layer of the ArcNova platform.

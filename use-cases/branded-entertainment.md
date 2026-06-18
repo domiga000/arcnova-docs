@@ -1,3 +1,7 @@
+---
+icon: bullhorn
+---
+
 # Branded Entertainment
 
 Brands can use ArcNova to explore AI-powered storytelling.

@@ -1,3 +1,7 @@
+---
+icon: share-nodes
+---
+
 # Content Distribution
 
 ArcNova will continue strengthening the path from content creation to audience reach.

@@ -1,3 +1,7 @@
+---
+icon: building
+---
+
 # For Studios and Brands
 
 Studios and brands can use ArcNova to explore AI-powered content production.
