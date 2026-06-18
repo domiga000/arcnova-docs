@@ -1,5 +1,7 @@
 # Why ArcNova Exists
 
+<figure><img src="../../.gitbook/assets/p3.png" alt=""><figcaption></figcaption></figure>
+
 Traditional film and video production can be expensive, slow, and difficult to access.
 
 Creators often face several challenges:
