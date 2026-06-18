@@ -1,6 +1,6 @@
 # Welcome to ArcNova
 
-<figure><img src="../../.gitbook/assets/p1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/p1.png" alt=""><figcaption></figcaption></figure>
 
 ArcNova is an AI-native cinematic platform built for the next generation of digital storytelling.
 
@@ -10,12 +10,8 @@ ArcNova brings together AI creation tools, digital actors, cinematic workflows, 
 
 Our goal is simple: make cinematic storytelling easier, faster, and more accessible for everyone.
 
-\- Website: https://arcnova.tv
-
-\- X: https://x.com/ArcNova\_ACI
-
-\- Discord: https://discord.gg/G2BXV5MWDa
-
-\- Telegram: https://t.me/ArcNova\_AI
-
-\- ArcNova App: https://arcnova.tv/en/download
+* Website: [arcnova.tv](https://arcnova.tv)
+* X: [@ArcNova\_ACI](https://x.com/ArcNova_ACI)
+* Discord: [Join our Discord](https://discord.gg/G2BXV5MWDa)
+* Telegram: [ArcNova\_AI](https://t.me/ArcNova_AI)
+* ArcNova App: [Download](https://arcnova.tv/en/download)

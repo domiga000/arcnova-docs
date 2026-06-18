@@ -1,6 +1,6 @@
 # What is ArcNova?
 
-<figure><img src="../../.gitbook/assets/p2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/p2.png" alt=""><figcaption></figcaption></figure>
 
 ArcNova is an AI-native entertainment platform focused on short-form cinematic content and AI-generated dramas.
 

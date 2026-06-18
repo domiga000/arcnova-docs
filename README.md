@@ -6,8 +6,8 @@ Use this documentation to understand ArcNova Studio, ArcNova TV, creator workflo
 
 ## Official Links
 
-- Website: https://arcnova.tv
-- X: https://x.com/ArcNova_ACI
-- Discord: https://discord.gg/G2BXV5MWDa
-- Telegram: https://t.me/ArcNova_AI
-- ArcNova App: https://arcnova.tv/en/download
+- Website: [arcnova.tv](https://arcnova.tv)
+- X: [@ArcNova_ACI](https://x.com/ArcNova_ACI)
+- Discord: [Join our Discord](https://discord.gg/G2BXV5MWDa)
+- Telegram: [ArcNova_AI](https://t.me/ArcNova_AI)
+- ArcNova App: [Download](https://arcnova.tv/en/download)
