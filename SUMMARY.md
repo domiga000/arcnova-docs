@@ -47,6 +47,13 @@
 * [Monetization Layer](ecosystem/monetization-layer.md)
 * [Community Layer](ecosystem/community-layer.md)
 
+## Token
+
+* [What is $AN?](token/what-is-an.md)
+* [Token Utility](token/token-utility.md)
+* [Token Demand Drivers](token/token-demand-drivers.md)
+* [User Journey](token/user-journey.md)
+
 ## Use Cases
 
 * [AI Short Drama Creation](use-cases/ai-short-drama-creation.md)
